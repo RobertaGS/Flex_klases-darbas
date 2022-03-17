@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    height: 100vh;
+    display: flex;
+    background-color: blueviolet;
+}
+.pirmas{
+    width: 50%;
+    background-color: rgb(69, 156, 18);
+}
+.pirmo_pirmas{
+    height: 45%;
+    background-color: crimson;
+}
+.pirmo_antras{
+    height:45%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: blue;
+
+}
+
+.pirmo_antro_1{
+    height: 50%;
+    width: 50%;
+    background-color: rgb(90, 9, 165);
+}
+.pirmo_antro_2{
+    height: 50%;
+    width: 50%;
+    background-color: rgb(134, 153, 26);
+}
+.pirmo_antro_3{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(5, 105, 105);
+}
+
+.pirmo_trecias{
+    height: 10%;
+    background-color: chartreuse;
+}
+
+
+.antras{
+    width: 50%;
+    background-color: rgb(38, 17, 158);
+}
